@@ -1,3 +1,5 @@
+Create IOS Application Of Fiend EvenOdd Number Using Swift.
+
 # EvenOdd
 
 ### A Simple Program To Find Out Whether The Given Input Is Even Or Odd.
@@ -10,4 +12,4 @@
 * Event Handling
 * Passing Data Between View Controllers
 
-Create IOS Application Of Fined EvenOdd Number Using Swift.
+
